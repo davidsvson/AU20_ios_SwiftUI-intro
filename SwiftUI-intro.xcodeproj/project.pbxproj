@@ -15,6 +15,7 @@
 		636E0F4825B6CF36005A438C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 636E0F4625B6CF36005A438C /* LaunchScreen.storyboard */; };
 		636E0F5325B6CF36005A438C /* SwiftUI_introTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 636E0F5225B6CF36005A438C /* SwiftUI_introTests.swift */; };
 		636E0F5E25B6CF36005A438C /* SwiftUI_introUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 636E0F5D25B6CF36005A438C /* SwiftUI_introUITests.swift */; };
+		636E0F6F25B6E0F3005A438C /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 636E0F6E25B6E0F3005A438C /* Person.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		636E0F5925B6CF36005A438C /* SwiftUI-introUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SwiftUI-introUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		636E0F5D25B6CF36005A438C /* SwiftUI_introUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_introUITests.swift; sourceTree = "<group>"; };
 		636E0F5F25B6CF36005A438C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		636E0F6E25B6E0F3005A438C /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				636E0F3B25B6CF35005A438C /* AppDelegate.swift */,
 				636E0F3D25B6CF35005A438C /* SceneDelegate.swift */,
 				636E0F3F25B6CF35005A438C /* ContentView.swift */,
+				636E0F6E25B6E0F3005A438C /* Person.swift */,
 				636E0F4125B6CF36005A438C /* Assets.xcassets */,
 				636E0F4625B6CF36005A438C /* LaunchScreen.storyboard */,
 				636E0F4925B6CF36005A438C /* Info.plist */,
@@ -268,6 +271,7 @@
 			files = (
 				636E0F3C25B6CF35005A438C /* AppDelegate.swift in Sources */,
 				636E0F3E25B6CF35005A438C /* SceneDelegate.swift in Sources */,
+				636E0F6F25B6E0F3005A438C /* Person.swift in Sources */,
 				636E0F4025B6CF35005A438C /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
